@@ -214,5 +214,3 @@ samba-tool sites create SiteA
 samba-tool sites subnet create 192.168.1.0/24 SiteA
 samba-tool sites addsitekdc SiteA kdc1.example.com
 ```
-
-Данные примеры покрывают основные аспекты тестирования samba-tool, фокусируясь на практическом применении техник тест-дизайна непосредственно в консольных командах.
